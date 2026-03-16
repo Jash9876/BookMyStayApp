@@ -17,11 +17,10 @@
  *
  * The goal is to establish a clear and predictable application startup point.
  *
- * @author Jashwanth
+ * @author Developer
  * @version 1.0
  */
 public class BookMyStayApp {
-
     /**
      * Application entry point.
      *
@@ -36,5 +35,4 @@ public class BookMyStayApp {
         System.out.println("================================================\n");
         // Application terminates after displaying welcome message
     }
-}
 }
